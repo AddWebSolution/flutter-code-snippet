@@ -1,4 +1,3 @@
-# This branch is still under development
 
 
 # Boilerplate Project
