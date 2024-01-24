@@ -5,8 +5,7 @@
 
 A boilerplate project created in flutter using MobX and Provider, clone the appropriate branches mentioned below:
 
-* For Mobile: https://github.com/zubairehman/flutter-boilerplate-project/tree/master (stable channel)
-* For Web: https://github.com/zubairehman/flutter-boilerplate-project/tree/feature/web-support (beta channel)
+* For Mobile: https://github.com/AddWebSolution/flutter-code-snippet
 
 ## Getting Started
 
@@ -19,7 +18,7 @@ The Boilerplate contains the minimal implementation required to create a new lib
 Download or clone this repo by using the link below:
 
 ```
-https://github.com/zubairehman/flutter-boilerplate-project.git
+https://github.com/AddWebSolution/flutter-code-snippet.git
 ```
 
 **Step 2:**
@@ -286,10 +285,6 @@ class MyApp extends StatelessWidget {
   }
 }
 ```
-
-## Wiki
-
-Checkout [wiki](https://github.com/zubairehman/flutter-boilerplate-project/wiki) for more info
 
 ## Conclusion
 
