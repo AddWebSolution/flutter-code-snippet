@@ -4,7 +4,7 @@
 
 A boilerplate project created in flutter using MobX and Provider, clone the appropriate branches mentioned below:
 
-* For Mobile: https://github.com/AddWebSolution/flutter-code-snippet
+*  https://github.com/AddWebSolution/flutter-code-snippet
 
 ## Getting Started
 
